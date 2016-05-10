@@ -1,1 +1,4 @@
-EIFGENs/
+# eiffel
+EIFGENs
+*.rc
+*.out
